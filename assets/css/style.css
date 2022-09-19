@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* HEADER */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* ASIDE SECTION */
 .hero {
     height: 800px;
     width: 100%;
@@ -133,7 +133,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* BODY */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,14 +187,11 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* FOOTER */
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-}
-
-.footer h2 {
     font-size: 20px;
 }
